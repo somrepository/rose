@@ -1,0 +1,2 @@
+variable "augrgs" {}
+variable "augvnets" {}
